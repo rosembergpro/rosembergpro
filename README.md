@@ -8,6 +8,7 @@ Driven by his passion for protecting digital assets, he is always ahead of emerg
 [CVE-2024-48644](https://www.cve.org/CVERecord?id=CVE-2024-48644)
 
 [ Certifications ]  
+eWPTv2 - Web Application Penetration Tester - INE Security FKA eLearnSecurity  
 CompTIA PenTest+  
 CompTIA Security+  
 CompTIA Linux+  
